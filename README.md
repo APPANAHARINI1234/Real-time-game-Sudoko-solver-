@@ -18,12 +18,6 @@ The project is organized into three packages:
 2. `player`: Contains the `Player` class representing the player.
 3. `logic`: Contains the `Logic` class implementing the game logic.
 
-## Usage
-
-1. Clone the repository to your local machine.
-2. Compile the Java files using your preferred Java compiler.
-3. Run the main program to start the Sudoku game.
-4. Follow the prompts to input numbers and solve the puzzle.
 
 ## Classes
 
